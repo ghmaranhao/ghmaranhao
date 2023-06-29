@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-## My name is Guilherme, i have a degree in systems analysis and development.
+## My name is Guilherme, i have a Bachelor of Technology in Systems Analysis and Development.
 ## Currently living in Brazil.
 
 
