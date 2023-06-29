@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-## My name is Guilherme, i have a degree in systems analysis and development and a front-end developer.
+## My name is Guilherme, i have a degree in systems analysis and development.
 ## Currently living in Brazil.
 
 
