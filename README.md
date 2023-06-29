@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hello world 👋
 
-## My name is Guilherme, I'm an Engineer student and a Front-End Developer living in Brazil.
+## My name is Guilherme, i have a degree in systems analysis and development and a front-end developer.
+## Currently living in Brazil.
 
 
-- 🌱 I’m currently learning 
+- 🌱 I'm learning
 - 👯 I’m looking to collaborate on Front-End Projects.
 - 📫 How to see my Portfolio: https://ghmaranhao.github.io/
 
