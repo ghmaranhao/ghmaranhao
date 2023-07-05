@@ -5,7 +5,7 @@
 
 
 - 🌱 I'm learning
-- 👯 I’m looking to collaborate on Front-End Projects.
+- 👯 I’m looking to collaborate on Front-End Projects
 - 📫 How to see my Portfolio: https://ghmaranhao.github.io/
 
 ## 🛠 &nbsp;Tech Stack
