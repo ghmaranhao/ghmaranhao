@@ -4,11 +4,9 @@
 ## Currently living in Brazil.
 
 
-- 🌱 I'm learning
-- 👯 I’m looking to collaborate on Front-End Projects
 - 📫 How to see my Portfolio: https://ghmaranhao.github.io/
 
-## 🛠 &nbsp;Tech Stack
+## Tech Stack
 
 ![JavaScript ](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -18,7 +16,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-## 👨🏽&nbsp;Social Link
+## Social Link
 
 <a href="https://www.linkedin.com/in/guilhermehmmaranhao/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-MeuLinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
