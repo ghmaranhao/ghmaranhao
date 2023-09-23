@@ -18,6 +18,6 @@
 
 ## Social Link
 
-<a href="https://www.linkedin.com/in/guilhermehmmaranhao/" target="_blank">
+<a href="https://https://www.linkedin.com/in/ghmm06/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-MeuLinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
